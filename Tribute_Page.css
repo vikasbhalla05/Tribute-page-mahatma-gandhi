@@ -1,0 +1,31 @@
+#image{
+    width: 10em;
+}
+#img-div{
+    position: relative;
+    left: auto;
+    right: auto;
+    display:block;
+    text-align: center;
+    padding: 10px;
+}
+img{
+    position: relative;
+    max-width: 100%;
+}
+#tribute-info{
+    display:inline-block;
+    font-size:larger;
+    padding: 10px;
+}
+#title{
+    text-align: center;
+    font-size: 300%;
+    padding: 10px;
+}
+main{
+    margin: 20px;
+    background-color: rgb(229, 250, 250);
+    border: none;
+    border-radius: 10px;
+}
